@@ -64,10 +64,10 @@ ota:
 #  port: 3286
 
 #----------------------WEB后台----------------------
-#web_server:
-#  port: 80
-#  css_url: https://esphome.io/_static/webserver-v1.min.css
-#  js_url: https://esphome.io/_static/webserver-v1.min.js
+web_server:
+  port: 80
+  css_url: https://esphome.io/_static/webserver-v1.min.css
+  js_url: https://esphome.io/_static/webserver-v1.min.js
 #----------------------------------------------------
 
 #----------------------深度睡眠----------------------
